@@ -1,0 +1,29 @@
+{
+  "status": "gotowy",
+  "scenariusz": "poprawne",
+  "liczba_zamowien": 5,
+  "laczna_sprzedaz": "1990.00",
+  "waluta": "PLN",
+  "produkty": [
+    {
+      "product": "Klawiatura",
+      "quantity": 3,
+      "sales": "450.00"
+    },
+    {
+      "product": "Monitor",
+      "quantity": 1,
+      "sales": "900.00"
+    },
+    {
+      "product": "Mysz",
+      "quantity": 3,
+      "sales": "240.00"
+    },
+    {
+      "product": "Sluchawki",
+      "quantity": 2,
+      "sales": "400.00"
+    }
+  ]
+}
