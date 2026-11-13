@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite*
+*.log
+/airflow-home/*
+!/airflow-home/dags/
+/data/output/
+/backups/
+/example-dags.json
